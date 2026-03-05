@@ -7,6 +7,7 @@ permalink: /ti84-calculator
 ## TI-84 Simple Calculator
 A simple calculator app version of the TI-84 calculator
 
+# HTML
 ```html
 <head>
     <meta charset="utf-8" />
@@ -48,6 +49,7 @@ A simple calculator app version of the TI-84 calculator
 </body>
 ```
 
+# CSS
 ```css
 body {
   font-family: Arial, sans-serif;
@@ -146,6 +148,7 @@ body {
 }
 ```
 
+# JavaScript
 ```javascript
 // Reference to the display
 const display = document.getElementById('display');
